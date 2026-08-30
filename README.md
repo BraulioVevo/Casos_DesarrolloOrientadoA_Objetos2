@@ -25,7 +25,7 @@ src/
     ├── Despachable.java          # Interfaz para flujo de despacho
     └── Rastreable.java           # Interfaz para seguimiento
 
-```text
+```
 
 🚀 Ejecución del Proyecto
 Clona el repositorio:
