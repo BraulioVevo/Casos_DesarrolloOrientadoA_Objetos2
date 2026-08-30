@@ -31,9 +31,10 @@ src/
 Clona el repositorio:
 
 Bash
-git clone <URL_DE_TU_REPOSITORIO>
-Abre el proyecto en IntelliJ IDEA.
+git clone https://github.com/BraulioVevo/S1_Caso_SpeedFast.git
 
-Asegúrate de configurar la versión JDK correcta en File > Project Structure.
+Abre el proyecto en IntelliJ IDEA. 
+
+En este caso, se debe seleccionar la carpeta terminada en S3, que es donde esta el caso de esta semana.
 
 Ejecuta la clase Main.java situada en el paquete app.
