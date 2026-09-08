@@ -1,6 +1,6 @@
 # Sistema de Gestión de Envíos - SpeedFast 🚚
 
-Este proyecto corresponde a la evaluación de la **Semana 3** de la asignatura **Desarrollo Orientado a Objetos II** (Duoc UC). La aplicación simula un sistema integral de despacho de pedidos expreso para la empresa *SpeedFast*, aplicando los principios de la Programación Orientada a Objetos (POO): **Abstracción, Polimorfismo e Interfaces**.
+Este proyecto corresponde a la evaluación de la **Semana 4** de la asignatura **Desarrollo Orientado a Objetos II** (Duoc UC). La aplicación simula un sistema integral de despacho de pedidos expreso para la empresa *SpeedFast*, aplicando los principios de la Programación Orientada a Objetos (POO): **Abstracción, Polimorfismo e Interfaces**.
 
 
 ---
@@ -35,6 +35,6 @@ git clone https://github.com/BraulioVevo/S1_Caso_SpeedFast.git
 
 Abre el proyecto en IntelliJ IDEA. 
 
-En este caso, se debe seleccionar la carpeta terminada en S3, que es donde esta el caso de esta semana.
+En este caso, se debe seleccionar la carpeta terminada en S4, que es donde esta el caso de esta semana.
 
 Ejecuta la clase Main.java situada en el paquete app.
