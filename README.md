@@ -1,7 +1,8 @@
-# Sistema de Gestión de Envíos - SpeedFast 🚚
+# SpeedFast - Sistema Concurrente de Gestión de Entregas (Semana 5)
 
-Este proyecto corresponde a la evaluación de la **Semana 5** de la asignatura **Desarrollo Orientado a Objetos II** (Duoc UC). La aplicación simula un sistema integral de despacho de pedidos expreso para la empresa *SpeedFast*, aplicando los principios de la Programación Orientada a Objetos (POO): **Abstracción, Polimorfismo e Interfaces**.
+Este proyecto corresponde a la implementación de un sistema concurrente para la empresa **SpeedFast**, desarrollado en Java como parte de la asignatura **Desarrollo Orientado a Objetos II** en Duoc UC.
 
+El objetivo principal es resolver la condición de carrera (*race condition*) al retirar pedidos desde una **Zona de Carga compartida**, garantizando mediante mecanismos de sincronización que cada pedido sea procesado y entregado por un único repartidor en un entorno multihilo
 
 ---
 
