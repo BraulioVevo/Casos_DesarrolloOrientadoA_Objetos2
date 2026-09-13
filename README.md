@@ -25,6 +25,10 @@ Sistema_Speedfast_Semana5/
     │   ├── Repartidor.java       # Implementa Runnable; define la lógica de trabajo de cada hilo
     │   └── ZonaDeCarga.java      # Recurso compartido con métodos sincronizados
     └── strategy/
+        ├── Cancelable.java       
+        └── Rastreable.java
+        └── Despachable.java
+
 ```
 
 🚀 Ejecución del Proyecto
